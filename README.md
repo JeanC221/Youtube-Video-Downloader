@@ -1,4 +1,4 @@
-# YouTube Video Downloader Pro 🎥
+# YouTube Video Downloader 🎥
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
