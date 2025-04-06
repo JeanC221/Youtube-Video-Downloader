@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['youtube_downloader.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -35,4 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['assets\\icon.ico'],
 )

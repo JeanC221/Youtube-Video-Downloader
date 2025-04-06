@@ -1,16 +1,22 @@
-# YouTube Video Downloader
+# YouTube Video Downloader Pro
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Aplicación para descargar videos de YouTube en MP4, MP3 o formato original.
+Aplicación de escritorio moderna para descargar videos de YouTube en MP4, MP3 o formato original, con interfaz personalizable (modo claro/oscuro) e historial de descargas.
 
+
+## Características
+- Descarga en MP4, MP3 o formato original
+- Vista previa del video con miniaturas
+- Historial de descargas persistente
+- Tema claro/oscuro personalizable
+- Interfaz intuitiva y responsive
+- Ejecutable independiente (.exe)
 
 ## Requisitos
-- Python 3.8+
-- yt-dlp
-- Pillow (PIL)
-- tkinter
+- Windows 10/11 (64-bit)
+- Python 3.8+ (solo para desarrollo)
 
 ## Instalación
 1. Clona el repositorio:
