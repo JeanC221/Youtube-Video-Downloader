@@ -36,8 +36,8 @@ class ModernTheme:
             self.hover_color = "#dee2e6"
             self.success_color = "#40c057"
             self.warning_color = "#fd7e14"
-            self.button_bg = "#339af0"
-            self.button_fg = "#ffffff"
+            self.button_bg = "#01050a"
+            self.button_fg = "#01050a"
     
     def toggle(self):
         self.is_dark = not self.is_dark
@@ -49,6 +49,8 @@ class YouTubeDownloaderApp:
         self.root.title("YouTube Video Downloader")
         self.root.geometry("800x600")
         self.root.minsize(700, 500)
+
+        self.root.iconbitmap("assets/icon.ico") 
         
         # Theme
         self.theme = ModernTheme()
