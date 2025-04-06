@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Download Now](https://img.shields.io/badge/Download-Windows%20EXE-brightgreen)](https://drive.google.com/your-download-link) / (Soon)
+[![Download Now](https://img.shields.io/badge/Download-Windows%20EXE-brightgreen)](https://drive.google.com/your-download-link)  (Soon)
 
 Modern desktop application to download YouTube videos in MP4, MP3, or original format with customizable themes and persistent history.
 
@@ -27,14 +27,14 @@ Modern desktop application to download YouTube videos in MP4, MP3, or original f
 
 ## For Power Users & Developers
 
-# 1. Clone repository
+1. Clone repository
 git clone https://github.com/JeanC221/Youtube-Video-Downloader.git
 
-# 2. Create virtual environment
+2. Create virtual environment
 python -m venv venv && source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate                            # Windows
 
-# 3. Install requirements
+3. Install requirements
 pip install -r requirements.txt
 
 # 4. Run application
