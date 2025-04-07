@@ -6,7 +6,6 @@
 
 Modern desktop application to download YouTube videos in MP4, MP3, or original format with customizable themes and persistent history.
 
-![App Screenshot](https://i.imgur.com/example-screenshot.png)
 
 ## 🌟 Features
 - **One-Click Downloads** - MP4, MP3, or original format
@@ -20,7 +19,7 @@ Modern desktop application to download YouTube videos in MP4, MP3, or original f
 ### For Non-Technical Users
 1. ## 📥 Download  
 Download the latest installer here:  
-[![GitHub Release](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/yourusername/your-repo/releases/latest) 
+[![GitHub Release](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/JeanC221/Youtube-Video-Downloader/releases/latest) 
 
 2. **Run Setup**  
    ```text
