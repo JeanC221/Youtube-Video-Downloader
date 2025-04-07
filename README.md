@@ -18,8 +18,9 @@ Modern desktop application to download YouTube videos in MP4, MP3, or original f
 ## 🚀 Quick Start for Everyone -- Soon
 
 ### For Non-Technical Users
-1. **[Download Windows Installer](https://drive.google.com/your-download-link)** - **Soon**
-   ![Installation Demo](https://i.imgur.com/install-demo.gif) 
+1. ## 📥 Download  
+Download the latest installer here:  
+[![GitHub Release](https://img.shields.io/badge/Download-Installer-brightgreen)](https://github.com/yourusername/your-repo/releases/latest) 
 
 2. **Run Setup**  
    ```text
