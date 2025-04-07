@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Download Now](https://img.shields.io/badge/Download-Windows%20EXE-brightgreen)](https://drive.google.com/your-download-link)
 
 Modern desktop application to download YouTube videos in MP4, MP3, or original format with customizable themes and persistent history.
 
@@ -23,7 +22,7 @@ Download the latest installer here:
 
 2. **Run Setup**  
    ```text
-   Double-click → Next → Install → Finish
+   Double-click → Run anyways → Next → Install → Finish
    Start Downloading!
    Desktop shortcut created automatically
 
